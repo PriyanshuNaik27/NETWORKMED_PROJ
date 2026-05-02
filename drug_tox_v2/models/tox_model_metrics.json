@@ -1,0 +1,18 @@
+{
+  "model_type": "GradientBoosting",
+  "accuracy": 0.7265,
+  "roc_auc": 0.7561,
+  "train_samples": 6258,
+  "test_samples": 1565,
+  "toxic_in_test": 574,
+  "confusion_matrix": [
+    [
+      890,
+      101
+    ],
+    [
+      327,
+      247
+    ]
+  ]
+}

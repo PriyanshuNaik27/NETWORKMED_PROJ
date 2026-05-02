@@ -1,0 +1,28 @@
+{
+  "promiscuity_model": {
+    "rmse": 10.7045,
+    "r2": -0.4742,
+    "cv_r2_mean": -119.4828,
+    "cv_r2_std": 139.3852,
+    "train_samples": 1698,
+    "test_samples": 425
+  },
+  "toxicity_model": {
+    "model_type": "GradientBoosting",
+    "accuracy": 0.7265,
+    "roc_auc": 0.7561,
+    "train_samples": 6258,
+    "test_samples": 1565,
+    "toxic_in_test": 574,
+    "confusion_matrix": [
+      [
+        890,
+        101
+      ],
+      [
+        327,
+        247
+      ]
+    ]
+  }
+}

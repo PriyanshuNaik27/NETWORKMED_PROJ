@@ -1,0 +1,8 @@
+{
+  "rmse": 10.7045,
+  "r2": -0.4742,
+  "cv_r2_mean": -119.4828,
+  "cv_r2_std": 139.3852,
+  "train_samples": 1698,
+  "test_samples": 425
+}
