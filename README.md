@@ -188,6 +188,29 @@ drug_toxicity_project/
 
 ## Installation
 
+
+Install Git LFS:
+# macOS (Homebrew)
+```bash
+brew install git-lfs
+```
+
+# Ubuntu/Debian
+```bash
+sudo apt install git-lfs
+```
+
+# Windows (using Git Bash)
+```bash
+winget install Git.GitLFS
+```
+
+Initialize Git LFS:
+```bash
+
+git lfs install
+```
+
 ```bash
 git clone https://github.com/PriyanshuNaik27/NETWORKMED_PROJ
 cd drug_tox_v2
